@@ -6,7 +6,6 @@ Projeto front-end responsivo de um site institucional para uma empresa fictícia
 
 Projeto estático desenvolvido para praticar layout, responsividade e componentes do Bootstrap.
 
-(Você pode adicionar um link do GitHub Pages aqui futuramente)
 
 🚀 Tecnologias Utilizadas
 
