@@ -20,25 +20,6 @@ Bootstrap Icons
 
 Google Fonts (Lato)
 
-📂 Estrutura do Projeto
-📦 imovi
-├── index.html
-├── css
-│   ├── estilo.css
-│   └── img
-│       ├── banner-1.jpg
-│       ├── banner-2.jpg
-│       ├── banner-3.jpg
-│       ├── project-1.jpg
-│       ├── project-2.jpg
-│       ├── project-3.jpg
-│       ├── project-4.jpg
-│       ├── project-5.jpg
-│       ├── project-6.jpg
-│       ├── infobanner.jpg
-│       ├── imovi-icon.png
-│       └── favicon.ico
-
 ✨ Funcionalidades
 
 Navbar fixa e responsiva
